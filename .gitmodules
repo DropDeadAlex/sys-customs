@@ -1,0 +1,3 @@
+[submodule "autoHotkey"]
+	path = autoHotkey
+	url = https://github.com/DropDeadAlex/auto-hotkeys.git
