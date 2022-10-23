@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+; This will make it appear when you right click ON a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+[HKEY_CLASSES_ROOT\Directory\shell\zAnyCode]
+@="@C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\MSEnv\\1033\\\\VSLauncherUI.dll,-1002"
+"Icon"="C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\MSEnv\\\\VSLauncher.exe,-105"
+
+[HKEY_CLASSES_ROOT\Directory\shell\zAnyCode\command]
+@="\"C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\MSEnv\\\\VSLauncher.exe\" \"%1\" source:Explorer"
+
+; This will make it appear when you right click INSIDE a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+[HKEY_CLASSES_ROOT\Directory\Background\shell\AnyCode]
+@="@C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\MSEnv\\1033\\\\VSLauncherUI.dll,-1002"
+"Icon"="C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\MSEnv\\\\VSLauncher.exe,-105"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\AnyCode\command]
+@="\"C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\MSEnv\\\\VSLauncher.exe\" \"%V\" source:ExplorerBackground"

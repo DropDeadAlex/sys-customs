@@ -1,0 +1,50 @@
+//// lugares vazios ////
+
+;       // primeira tecla linha numerica
+altGR::
+altGR+shift::
+
+under({::)    ;  L indicador altGR+Shift
+
+
+
+///// novos definidos /////
+
+        ;  combo += mantendo ordem fora pra dentro //
+
+=::     ;  R dedo max
+≠::     ;  altGR (=)
+
++::     ;  R dedo anelar 
+±::     ;  altGR (+)
+-----
+
+        ;  R dedo indicador (primoridade de uso em prog)
+%::	    ;  swap
+$::	    ;  swap
+
+        ;  -- firstKey linha numerica
+#::     ;  L dedo mi
+≅::     ;  shift (#)
+
+        ;  -- secondKey linha numerica
+        ;  L dedo min 
+*::     ;  shift (!)
+
+&::     ;  L dedo indx
+
+π::     ;  altGR + shift + M
+
+
+
+//// estudando localização ////
+
+
+
+//// verificar deadKeys ////
+
+‟ ” “garota” ‟garota” “”̩̩̩̩̩a̩oc̓
+
+₀₁₂₃₄₅₆₇₈₉oeaoiea≠=!
+=
+≠ΩΩ∆,<>≤≥ 
