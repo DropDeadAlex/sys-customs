@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T10:54:27.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="ufhfqcfXyQRPgtBTpQPL" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T12:08:27.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="sInEq8T9bubfmM_7mwrj" version="20.6.0" type="github">
   <diagram id="FzUg_4evW8bTKsdcM-lS" name="Page-1">
-    <mxGraphModel dx="1215" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -777,11 +777,11 @@
         <mxCell id="iwDeJrG9YnzXXPkuRzG3-127" value="&lt;p style=&quot;line-height: 90%; font-size: 12px;&quot;&gt;^&lt;br style=&quot;font-size: 12px;&quot;&gt;~&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;spacingTop=-2;" vertex="1" parent="1">
           <mxGeometry x="613.5" y="373.17" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iwDeJrG9YnzXXPkuRzG3-131" value="LCTL(KC_X)" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#A63AC7;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="360" width="130" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="iwDeJrG9YnzXXPkuRzG3-132" value="⭾" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="453.17" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iwDeJrG9YnzXXPkuRzG3-133" value="http://xahlee.info/comp/unicode_computing_symbols.html" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#A63AC7;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="243" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
