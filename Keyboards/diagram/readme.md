@@ -6,7 +6,7 @@ This layout is inspired by:
 
 <div align="center">
   
-  ![sweep-layout](CSTC40.png)
+  ![br-nativo 40%](CSTC40.png)
 
 </div>
 
