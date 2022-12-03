@@ -1,4 +1,4 @@
-This layout is inspired by:
+This layout is inspired by:  
 [Neo-us by Jan Lunge](https://configure.zsa.io/ergodox-ez/layouts/rbvpb/latest/0)  
 [Seniply by Stevep99](https://stevep99.github.io/seniply/)  
 [Sweep-Layout by Kiek](https://github.com/duckyb/zmk-sweep)  
