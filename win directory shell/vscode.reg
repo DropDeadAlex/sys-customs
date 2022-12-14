@@ -19,9 +19,9 @@ Windows Registry Editor Version 5.00
 
 ; This will make it appear when you right click INSIDE a folder
 ; The "Icon" line can be removed if you don't want the icon to appear
-[HKEY_CLASSES_ROOT\Directory\Background\shell\vscode]
+[HKEY_CLASSES_ROOT\Directory\Background\shell\.vscode]
 @="Code &."
 "Icon"="\"C:\\Program Files\\Microsoft VS Code\\Code.exe\",0"
 
-[HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command]
+[HKEY_CLASSES_ROOT\Directory\Background\shell\.vscode\command]
 @="\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%V\""
