@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T10:38:10.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="d2N4ajjNivZqTJYEQHNf" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-14T11:11:40.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="8NQb-kEr9-vfQNKsOaS_" version="20.6.2" type="github" pages="2">
   <diagram id="FzUg_4evW8bTKsdcM-lS" name="Page-1">
-    <mxGraphModel dx="589" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#26292C" math="0" shadow="0">
+    <mxGraphModel dx="714" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#26292C" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -885,7 +885,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LNAtPgisddjW0HJwoD2a" name="Page-2">
-    <mxGraphModel dx="1415" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1270,10 +1270,10 @@
         <mxCell id="QbOERGdembJ3T9NwaVXq-112" value="Bootloader&lt;br&gt;(flash new firmware)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=14;fontColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="564.5" y="1390" width="169.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="46p2veL7AXjb6yx_J-oc-1" value="grid color&lt;br&gt;font: high contrast&lt;br&gt;fill: low contrast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#2C3033;fontSize=16;fontColor=#6E6E6E;spacing=2;" parent="1" vertex="1">
+        <mxCell id="46p2veL7AXjb6yx_J-oc-1" value="grid color&lt;br&gt;font: high contrast&lt;br&gt;fill: low contrast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#34393C;fontSize=16;fontColor=#6E6E6E;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="-410" y="290" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-tULZpZDp_IjbqJTdHWr-1" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;⏎&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 40%; font-size: 10px;&quot;&gt;&lt;font color=&quot;#1f1f1f&quot; style=&quot;font-size: 10px; background-color: rgb(246, 220, 30);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#5c5100&quot; style=&quot;font-size: 10px; background-color: rgb(246, 220, 30);&quot;&gt;Fnc/Num&lt;/font&gt;&lt;font color=&quot;#1f1f1f&quot; style=&quot;font-size: 10px; background-color: rgb(246, 220, 30);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=0;fontSize=12;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;spacingBottom=-1;strokeColor=#1E1F20;" vertex="1" parent="1">
+        <mxCell id="-tULZpZDp_IjbqJTdHWr-1" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;⏎&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 40%; font-size: 10px;&quot;&gt;&lt;font color=&quot;#1f1f1f&quot; style=&quot;font-size: 10px; background-color: rgb(246, 220, 30);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#5c5100&quot; style=&quot;font-size: 10px; background-color: rgb(246, 220, 30);&quot;&gt;Fnc/Num&lt;/font&gt;&lt;font color=&quot;#1f1f1f&quot; style=&quot;font-size: 10px; background-color: rgb(246, 220, 30);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=0;fontSize=12;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;spacingBottom=-1;strokeColor=#1E1F20;" parent="1" vertex="1">
           <mxGeometry x="1080" y="243" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
