@@ -1,0 +1,11 @@
+; answer found on site: https://answers.microsoft.com/en-us/windows/forum/all/disabling-the-office-hotkey-in-windows-10/58e2f30f-8556-4f73-bf0c-56544697218d#:~:text=The%20default%20mapping%20of%20Alt,longer%20open%20the%20Office%20application.
+Windows Registry Editor Version 5.00
+
+; Click Search on the taskbar, enter CMD, select Run as administrator to open, enter the following command and press Enter:
+
+REG ADD HKCU\Software\Classes\ms-officeapp\Shell\Open\Command /t REG_SZ /d rundll32
+; After this command is completed, the Office app shortcut will be disabled and the Hyper key will not open it again.
+
+
+
+---note: search how to transform this on an "executable" Registry 
