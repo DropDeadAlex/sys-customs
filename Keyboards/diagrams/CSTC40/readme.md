@@ -1,7 +1,8 @@
 This layout is inspired by:  
-[Neo-us by Jan Lunge](https://configure.zsa.io/ergodox-ez/layouts/rbvpb/latest/0)  
-[Seniply by Stevep99](https://stevep99.github.io/seniply/)  
-[Sweep-Layout by Kiek](https://github.com/duckyb/zmk-sweep)  
+[Br-Nativo](https://pt.wikipedia.org/wiki/BR-Nativo) by [Aristides Caldeira](http://web.archive.org/web/20111128095157/http://tecladobrasileiro.laumi.org/index.php?option=com_frontpage&Itemid=1)  
+[Neo-us](https://configure.zsa.io/ergodox-ez/layouts/rbvpb/latest/0) by [Jan Lunge](https://www.youtube.com/c/JanLunge)  
+[Seniply](https://stevep99.github.io/seniply/) by [Stevep99](https://github.com/stevep99)  
+[Sweep-Layout](https://github.com/duckyb/zmk-sweep) by [Kiek](https://github.com/duckyb/)  
 [Miryoku by Manna Harbour](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)  
 
 <div align="center">
