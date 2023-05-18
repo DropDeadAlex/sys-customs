@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T07:15:25.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CnF41RSgrDiOVk4d9pQV" version="21.3.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-18T07:44:30.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0fCLB4ZB9r-9B9NU4Byz" version="21.3.2" type="github" pages="7">
   <diagram name="corne" id="dayiIwXl7hrctoX5PTJT">
-    <mxGraphModel dx="2800" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
+    <mxGraphModel dx="2802" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
         <mxCell id="ZSn5DOOcX34Fu09_r6I0-0" />
         <mxCell id="ZSn5DOOcX34Fu09_r6I0-1" parent="ZSn5DOOcX34Fu09_r6I0-0" />
@@ -990,8 +990,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="corne (slimDiagram)" id="lx1WYt1qz4VFqkjohMTn">
-    <mxGraphModel dx="2438" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
+  <diagram name="Corne" id="lx1WYt1qz4VFqkjohMTn">
+    <mxGraphModel dx="620" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-0" />
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-1" parent="VhBe_t0WcY4HtVwPUnTK-0" />
@@ -1245,17 +1245,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VhBe_t0WcY4HtVwPUnTK-69" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Power&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=11;fillColor=none;fontColor=#979EB5;" vertex="1" parent="VhBe_t0WcY4HtVwPUnTK-1">
-          <mxGeometry x="46.99999999999986" y="990.57" width="42.62" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="VhBe_t0WcY4HtVwPUnTK-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#6FBAD3;fontFamily=Verdana;strokeColor=#979EB5;fillColor=#1ba1e2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VhBe_t0WcY4HtVwPUnTK-1" target="VhBe_t0WcY4HtVwPUnTK-214">
+        <mxCell id="VhBe_t0WcY4HtVwPUnTK-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#6FBAD3;fontFamily=Verdana;strokeColor=#CC99FF;fillColor=#1ba1e2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VhBe_t0WcY4HtVwPUnTK-1" target="VhBe_t0WcY4HtVwPUnTK-214">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="67" y="1013" as="sourcePoint" />
+            <mxPoint x="125" y="978" as="sourcePoint" />
             <mxPoint x="70" y="1040" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="67" y="1014" />
-              <mxPoint x="67" y="1026" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-71" value=":" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;strokeColor=#1E1F20;" vertex="1" parent="VhBe_t0WcY4HtVwPUnTK-1">
@@ -1979,6 +1972,9 @@
         </mxCell>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-281" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;strokeColor=#1E1F20;" vertex="1" parent="VhBe_t0WcY4HtVwPUnTK-1">
           <mxGeometry x="469.99999999999994" y="392" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz2_0_wsTJetSuUABbIJ-0" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tap Dance&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right; line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 10px; background-color: initial;&quot;&gt;short-Tap:&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 11.5px;&quot;&gt;Escape&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;text-align: right; line-height: 31%;&quot;&gt;&lt;font style=&quot;font-size: 10px; background-color: initial;&quot;&gt;long-Tap:&lt;/font&gt;&lt;font style=&quot;font-size: 12px; background-color: initial;&quot;&gt;&amp;nbsp; &lt;/font&gt;&lt;font style=&quot;background-color: initial; font-size: 11.5px;&quot;&gt;Power&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;p style=&quot;line-height: 290%;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right; line-height: 98%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;tap term: 750ms&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=14;fillColor=none;fontColor=#CC99FF;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="VhBe_t0WcY4HtVwPUnTK-1">
+          <mxGeometry x="99.25" y="905" width="102.88" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
