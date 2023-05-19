@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T21:57:24.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Iuy2gRdv7Bwn4T3vDn6y" version="21.3.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-19T11:21:06.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vW6fN1DmXbZAkyYyVJXm" version="21.3.2" type="github" pages="7">
   <diagram name="Corne" id="lx1WYt1qz4VFqkjohMTn">
-    <mxGraphModel dx="670" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-0" />
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-1" parent="VhBe_t0WcY4HtVwPUnTK-0" />
@@ -536,13 +536,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-156" value="" style="group" vertex="1" connectable="0" parent="VhBe_t0WcY4HtVwPUnTK-1">
-          <mxGeometry x="340.53999999999996" y="426" width="122.42000000000002" height="97" as="geometry" />
+          <mxGeometry x="340.53999999999996" y="426" width="130" height="97" as="geometry" />
         </mxCell>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-157" value="&lt;div style=&quot;line-height: 95%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12.5px;&quot;&gt;Sticky Modifiers&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 9.5px;&quot;&gt;(OSM)&lt;/font&gt;&lt;i style=&quot;font-size: 14px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=13;fontColor=#FF8000;spacingLeft=2;" vertex="1" parent="VhBe_t0WcY4HtVwPUnTK-156">
           <mxGeometry width="122.42" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="VhBe_t0WcY4HtVwPUnTK-158" value="&lt;div style=&quot;line-height: 162%;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;from left to right:&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 99%;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;OS, ALT, SHIFT,&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 118%;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;CTRL, ALTGR&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(RAlt)&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;font-size: 14px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=13;fontColor=#FF8000;spacingLeft=2;" vertex="1" parent="VhBe_t0WcY4HtVwPUnTK-156">
-          <mxGeometry x="5.684341886080802e-14" y="36" width="115.33" height="61" as="geometry" />
+        <mxCell id="VhBe_t0WcY4HtVwPUnTK-158" value="&lt;div style=&quot;line-height: 162%;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;from left to right:&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 99%;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;OS, ALT, SHIFT,&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 118%;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;CTRL, ALTGR&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(rightAlt)&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;font-size: 14px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=13;fontColor=#FF8000;spacingLeft=2;" vertex="1" parent="VhBe_t0WcY4HtVwPUnTK-156">
+          <mxGeometry y="36" width="122" height="61" as="geometry" />
         </mxCell>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-159" value="" style="group;spacingTop=-3;" vertex="1" connectable="0" parent="VhBe_t0WcY4HtVwPUnTK-1">
           <mxGeometry x="364" y="126" width="72" height="56" as="geometry" />
