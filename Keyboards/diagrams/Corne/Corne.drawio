@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T13:28:13.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TYnWwf89nKKmvtuJ6tid" version="21.3.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-07T13:35:18.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="v2sYV-WP_5FOLwrTSnTc" version="21.3.7" type="github" pages="7">
   <diagram name="Corne" id="lx1WYt1qz4VFqkjohMTn">
-    <mxGraphModel dx="1513" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
+    <mxGraphModel dx="887" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-0" />
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-1" parent="VhBe_t0WcY4HtVwPUnTK-0" />
@@ -1070,6 +1070,15 @@
             </Array>
             <mxPoint x="363" y="1109" as="sourcePoint" />
             <mxPoint x="310" y="1109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahJPLvYoi1HsG6GWYx1X-0" value="&lt;b&gt;Escape&lt;br&gt;/Power&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=11;fillColor=none;fontColor=#979EB5;spacingBottom=3;" vertex="1" parent="VhBe_t0WcY4HtVwPUnTK-1">
+          <mxGeometry x="92.56" y="1300" width="58.44" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ahJPLvYoi1HsG6GWYx1X-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#6FBAD3;fontFamily=Verdana;strokeColor=#979EB5;fillColor=#1ba1e2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ahJPLvYoi1HsG6GWYx1X-0" parent="VhBe_t0WcY4HtVwPUnTK-1" target="Uz2_0_wsTJetSuUABbIJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="834.69" y="1376.6599999999999" as="sourcePoint" />
+            <mxPoint x="160" y="1352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
