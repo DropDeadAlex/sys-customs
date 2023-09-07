@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T02:15:53.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4-6dZbh64ES5ZNDmqGS1" version="21.7.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-07T02:19:45.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5MhKf2aFAqg8bHB4jibO" version="21.7.2" type="github" pages="7">
   <diagram name="Corne" id="lx1WYt1qz4VFqkjohMTn">
     <mxGraphModel dx="2103" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="accent" id="fVFfDCqKr8XuNTdJEM-v">
-    <mxGraphModel dx="2286" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
         <mxCell id="aUhSGIM8BjeLHqIeNNS3-0" />
         <mxCell id="aUhSGIM8BjeLHqIeNNS3-1" parent="aUhSGIM8BjeLHqIeNNS3-0" />
@@ -2207,11 +2207,35 @@
             <mxPoint x="160" y="1352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8Y9c1KPHKPGzzRJZ_Iub-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#6FBAD3;fontFamily=Verdana;strokeColor=#CC99FF;fillColor=#1ba1e2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="aUhSGIM8BjeLHqIeNNS3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="616" as="sourcePoint" />
+            <mxPoint x="130" y="557" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Y9c1KPHKPGzzRJZ_Iub-1" value="" style="group" vertex="1" connectable="0" parent="aUhSGIM8BjeLHqIeNNS3-1">
+          <mxGeometry x="78.63" y="612" width="88.75" height="85.16" as="geometry" />
+        </mxCell>
+        <mxCell id="8Y9c1KPHKPGzzRJZ_Iub-2" value="&lt;p style=&quot;line-height: 27%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;tap:&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;hold:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=14;fillColor=none;fontColor=#CC99FF;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingTop=-7;" vertex="1" parent="8Y9c1KPHKPGzzRJZ_Iub-1">
+          <mxGeometry x="9" y="26.159999999999968" width="36.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Y9c1KPHKPGzzRJZ_Iub-3" value="&lt;p style=&quot;line-height: 7%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;tap term: 350ms&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=14;fillColor=none;fontColor=#CC99FF;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacingTop=-3;" vertex="1" parent="8Y9c1KPHKPGzzRJZ_Iub-1">
+          <mxGeometry x="-2.1200000000000045" y="72.15999999999997" width="87" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="8Y9c1KPHKPGzzRJZ_Iub-4" value="&lt;b style=&quot;color: rgb(204, 153, 255); font-family: Verdana; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tap Dance&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Y9c1KPHKPGzzRJZ_Iub-1">
+          <mxGeometry x="2.25" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Y9c1KPHKPGzzRJZ_Iub-5" value="&lt;h1 style=&quot;text-align: right; line-height: 150%; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;&quot;&gt;Enter &lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;⇧&lt;/font&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;+&lt;/font&gt;&lt;font style=&quot;font-size: 4px;&quot;&gt; &lt;/font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Del&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-19;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#CC99FF;" vertex="1" parent="8Y9c1KPHKPGzzRJZ_Iub-1">
+          <mxGeometry x="41.50999999999999" y="30.49000000000001" width="41.99" height="31.34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="FzUg_4evW8bTKsdcM-lS" name="cstc40">
-    <mxGraphModel dx="1286" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
+    <mxGraphModel dx="3155" dy="2277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3240,7 +3264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="altGr" id="39oLZOf3qmUf-OVQ9ed5">
-    <mxGraphModel dx="2286" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
         <mxCell id="uDWv_0AdOPv8IFBr4m4--0" />
         <mxCell id="uDWv_0AdOPv8IFBr4m4--1" parent="uDWv_0AdOPv8IFBr4m4--0" />
@@ -3693,7 +3717,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="layer&#39;s combo" id="Zu8CJ9bUEEd_499SNbp1">
-    <mxGraphModel dx="2286" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
+    <mxGraphModel dx="2969" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#282B2E" math="0" shadow="0">
       <root>
         <mxCell id="EOSCVROFvTRT6QTssO7R-0" />
         <mxCell id="EOSCVROFvTRT6QTssO7R-1" parent="EOSCVROFvTRT6QTssO7R-0" />
@@ -4313,7 +4337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U_MlzG_QXGDW_-fqgxBv" name="combos">
-    <mxGraphModel dx="2286" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4428,7 +4452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LNAtPgisddjW0HJwoD2a" name="@annotation">
-    <mxGraphModel dx="1924" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#2A2D30" math="0" shadow="0">
+    <mxGraphModel dx="3374" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#2A2D30" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
