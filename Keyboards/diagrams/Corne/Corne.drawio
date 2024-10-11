@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="7">
   <diagram name="Corne" id="lx1WYt1qz4VFqkjohMTn">
-    <mxGraphModel dx="104" dy="56" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#22272a" math="0" shadow="0">
+    <mxGraphModel dx="631" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#22272a" math="0" shadow="0">
       <root>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-0" />
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-1" parent="VhBe_t0WcY4HtVwPUnTK-0" />
@@ -239,14 +239,14 @@
         </mxCell>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-65" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF8000;fontSize=12;fontColor=#FF8000;" parent="VhBe_t0WcY4HtVwPUnTK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="22" y="1596" as="sourcePoint" />
-            <mxPoint x="22" y="1580" as="targetPoint" />
+            <mxPoint x="37" y="1596" as="sourcePoint" />
+            <mxPoint x="37" y="1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-66" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#D80073;fontSize=12;fontColor=#FF8000;" parent="VhBe_t0WcY4HtVwPUnTK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="807" y="23" as="sourcePoint" />
-            <mxPoint x="807" y="7" as="targetPoint" />
+            <mxPoint x="791" y="23" as="sourcePoint" />
+            <mxPoint x="791" y="7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VhBe_t0WcY4HtVwPUnTK-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC99FF;fontSize=7;fontColor=#CC99FF;" parent="VhBe_t0WcY4HtVwPUnTK-1" edge="1">
